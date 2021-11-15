@@ -1,0 +1,11 @@
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\bin\Debug\crudbetamart.accdb
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\bin\Debug\CRUD_Betamart.exe.config
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\bin\Debug\CRUD_Betamart.exe
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\bin\Debug\CRUD_Betamart.pdb
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.csproj.AssemblyReference.cache
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.Form1.resources
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.Properties.Resources.resources
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.csproj.GenerateResource.cache
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.csproj.CoreCompileInputs.cache
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.exe
+C:\Users\Nanda Fadillah W\source\repos\CRUD_Betamart\CRUD_Betamart\obj\Debug\CRUD_Betamart.pdb
